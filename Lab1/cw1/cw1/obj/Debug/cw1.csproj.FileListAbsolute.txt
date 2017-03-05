@@ -1,0 +1,12 @@
+C:\Users\ksis\Desktop\Malecki_Lewicki\cw1\cw1\bin\Debug\cw1.exe.config
+C:\Users\ksis\Desktop\Malecki_Lewicki\cw1\cw1\bin\Debug\cw1.exe
+C:\Users\ksis\Desktop\Malecki_Lewicki\cw1\cw1\bin\Debug\cw1.pdb
+C:\Users\ksis\Desktop\Malecki_Lewicki\cw1\cw1\obj\Debug\cw1.csprojResolveAssemblyReference.cache
+C:\Users\ksis\Desktop\Malecki_Lewicki\cw1\cw1\obj\Debug\cw1.exe
+C:\Users\ksis\Desktop\Malecki_Lewicki\cw1\cw1\obj\Debug\cw1.pdb
+D:\studia\Sem 6\Systemy czasu rzeczywistego\SCR-put\Lab1\cw1\cw1\bin\Debug\cw1.exe.config
+D:\studia\Sem 6\Systemy czasu rzeczywistego\SCR-put\Lab1\cw1\cw1\obj\Debug\cw1.exe
+D:\studia\Sem 6\Systemy czasu rzeczywistego\SCR-put\Lab1\cw1\cw1\obj\Debug\cw1.pdb
+D:\studia\Sem 6\Systemy czasu rzeczywistego\SCR-put\Lab1\cw1\cw1\bin\Debug\cw1.exe
+D:\studia\Sem 6\Systemy czasu rzeczywistego\SCR-put\Lab1\cw1\cw1\bin\Debug\cw1.pdb
+D:\studia\Sem 6\Systemy czasu rzeczywistego\SCR-put\Lab1\cw1\cw1\obj\Debug\cw1.csprojResolveAssemblyReference.cache
