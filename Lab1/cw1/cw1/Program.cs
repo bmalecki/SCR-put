@@ -81,8 +81,19 @@ namespace cw1
 
         public void e6()
         {
+            for (int i = 0; i < roznica.Length; i++)
+            {
+                if(i % 4 == 0)
+                {
+                    Console.WriteLine();
+                }
 
+                Console.Write(sortTab[i] + " " + roznica[i] + " ");
 
+              
+            }
+
+            Console.WriteLine("\n");
         }
     }
 
@@ -92,7 +103,7 @@ namespace cw1
 
         static void Main(string[] args)
         {
-            MyClass myObj = new MyClass(10, 200000);
+            MyClass myObj = new MyClass(5000, 35000);
 
             Stopwatch stopWatch = new Stopwatch();
             
