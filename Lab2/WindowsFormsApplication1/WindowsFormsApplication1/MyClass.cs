@@ -132,7 +132,7 @@ namespace cw1
         {
             try
             {
-                for (int i = 0; i < roznica.Length; i++)
+               /* for (int i = 0; i < roznica.Length; i++)
                 {
                     if (i % 4 == 0)
                     {
@@ -141,7 +141,7 @@ namespace cw1
 
                     Console.Write(sortTab[i] + " " + roznica[i] + " ");
                 }
-                Console.WriteLine("\n");
+                Console.WriteLine("\n");*/
 
                 
                 
